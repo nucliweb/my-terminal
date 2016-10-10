@@ -32,4 +32,5 @@ Includes autocompletion, themes, aliases, custom functions, a few stolen pieces 
   * general
   * git
   * homebrew
+  * npm
   * osx
