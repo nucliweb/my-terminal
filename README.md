@@ -36,4 +36,4 @@ Includes autocompletion, themes, aliases, custom functions, a few stolen pieces 
   * osx
 
 ### Spanish translation
-You will find a tutorial about this terminal configurations on DesarrolloWeb: [Configuración de terminal con Bash-it / iTerm2] (https://desarrolloweb.com/articulos/personalizacion-terminal-bash-it-iterm2.html)
+You will find a tutorial about this terminal configurations on DesarrolloWeb: [Configuración de terminal con Bash-it / iTerm2](https://desarrolloweb.com/articulos/personalizacion-terminal-bash-it-iterm2.html)
